@@ -20,7 +20,7 @@ _Note: You can get up to 60 hours of GitHub Codespaces usage per month for free.
 
 ### Instructor
 
-Barbara Forbes
+
 
 Azure MVP and GitHub Star
                             
